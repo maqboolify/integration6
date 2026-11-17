@@ -1,0 +1,1 @@
+This week I learned that branches let me try ideas without touching main.
