@@ -1,0 +1,2 @@
+Entry 1: Today I learned how to create a Git repository with git init.
+Entry 2: Today I learned that a commit is a saved checkpoint of my project.
